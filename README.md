@@ -1,5 +1,5 @@
 ### Ahoy!
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-chauhan&show_icons=true&theme=radical&count_private=true" alt="ritik-chauhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-chauhan&show_icons=true&theme=radical&count_private=true&hide=stars" alt="ritik-chauhan" /></p>
 
 
 
