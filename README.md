@@ -8,6 +8,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ritik-chauhan&style=flat-square&color=blue" alt=""/>
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div id="icons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
