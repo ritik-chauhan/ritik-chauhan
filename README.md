@@ -6,6 +6,7 @@
   <a href="https://www.youtube.com/channel/UCKVZ2KnXCsHLwJmf2VrsceQ"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://twitter.com/gcstwt"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=ritik-chauhan&style=flat-square&color=blue" alt=""/>
 
 
 
