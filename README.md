@@ -28,7 +28,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritik-chauhan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritik-chauhan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ritik-chauhan&show_icons=true&theme=radical&count_private=true&show_owner=true" alt="ritik-chauhan" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-chauhan&layout=compact&theme=radical&count_private=true&show_owner=true" alt="ritik-chauhan"/>
 
